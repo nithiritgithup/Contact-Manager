@@ -1,4 +1,4 @@
-ontact Manager Program with CSV Export
+Contact Manager Program with CSV Export
 This Python program serves as a simple contact manager that allows users to manage their contact list with features for adding, viewing, editing, and deleting contacts. Additionally, it includes functionality to export contacts to a CSV file for easy data handling and sharing. Below is an overview of the program's features:
 
 Features:
